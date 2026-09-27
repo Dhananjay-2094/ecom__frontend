@@ -7,7 +7,7 @@ A small Angular storefront for the checkout and rewards API. It includes product
 Start the backend first in another terminal:
 
 ```powershell
-cd backend
+cd ecom__backend
 npm install
 npm run dev
 ```
@@ -15,7 +15,7 @@ npm run dev
 Then start the frontend:
 
 ```powershell
-cd frontend
+cd ecom__frontend
 npm install
 npm start
 ```
